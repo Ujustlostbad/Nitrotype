@@ -1,0 +1,54 @@
+# Nitrotype
+<!DOCTYPE html>
+<html>
+<head>
+<title>NitroTypo</title>
+</head>
+<body>
+
+<h1>Nitrotypo</h1>
+<p>This is a knockoff of Nitrotype...We are going to do it!</p>
+
+<img src="https://www.nitrotype.com/cars/painted/51_large_1_260.png" alt="https://www.nitrotype.com/cars/88_large_1.png" width="300" height="142">
+<img src="https://www.nitrotype.com/cars/51_large_1.png" alt="https://www.nitrotype.com/cars/88_large_1.png" width="300" height="142">
+
+<h2>It is two tanks!<h2>
+
+<img src="https://www.nitrotype.com/cars/88_large_1.png" alt="https://www.nitrotype.com/cars/88_large_1.png" width="275"
+height="142">
+<img src="https://www.nitrotype.com/cars/84_large_1.png" alt="https://www.nitrotype.com/cars/88_large_1.png" width="275"
+height="142">
+
+<p>It's...A surfboard with power rockets?! Two of them? NotCool,NotCool!<p>
+
+<img src="https://www.nitrotype.com/cars/126_large_1.png" alt="https://www.nitrotype.com/cars/98_large_1.png" width="275"
+height="142">
+<img src="https://www.nitrotype.com/cars/135_large_1.png" alt="https://www.nitrotype.com/cars/78_large_1.png" width="275"
+height="142">
+<img src="https://www.nitrotype.com/cars/95_large_1.png" alt="https://www.nitrotype.com/cars/88_large_1.png" width="275"
+height="142">
+<img src="https://www.nitrotype.com/cars/93_large_1.png" alt="https://www.nitrotype.com/cars/48_large_1.png" width="275"
+height="142">
+<img src="https://www.nitrotype.com/cars/102_large_1.png" alt="https://www.nitrotype.com/cars/98_large_1.png" width="275"
+height="142">
+<img src="https://www.nitrotype.com/cars/36_large_1.png" alt="https://www.nitrotype.com/cars/88_large_1.png" width="275"
+height="142">
+
+<h1>Which one is the best?<h1>
+<ol><li>They are in order from left to right up to down</li>
+<ol>B.O.A.T.<ol></lt>
+<ol>Lamborgotti Xmaxx LT<ol></lt>
+<ol>Police Bimmer<ol></lt>
+<ol>Alfa Romeo 4c<ol></lt>
+<ol>Dark Elf<ol></lt>
+<ol>General Beargard<ol></lt>
+
+<h1>5..</h1>
+<h2>4..</h2>
+<h3>3..</h3>
+<h4>2..</h4>
+<h5>1..</h5>
+<h1>Happy Ne-Wait, it is January 20th! -_-</h1>
+
+</body>
+</html>
